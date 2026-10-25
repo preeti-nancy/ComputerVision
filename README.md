@@ -1,4 +1,4 @@
-# ComputerVision
+# HelmNet - ComputerVision
 SafeGuard Corp plans to develop an automated image analysis system to detect whether workers are wearing safety helmets. 
 
 #### Business Context
